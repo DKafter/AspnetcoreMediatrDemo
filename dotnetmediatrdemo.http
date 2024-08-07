@@ -1,0 +1,6 @@
+@dotnetmediatrdemo_HostAddress = http://localhost:5007
+
+GET {{dotnetmediatrdemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
